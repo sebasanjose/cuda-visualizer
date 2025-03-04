@@ -1,1 +1,1 @@
-# gpuVisualizer
+# cuda-visualizer
